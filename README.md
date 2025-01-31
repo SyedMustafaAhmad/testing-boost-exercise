@@ -1,4 +1,4 @@
-[![Automation CI](https://github.com/SyedMustafaAhmad/testing-boost-exercise/actions/workflows/sidemade.yml/badge.svg)](https://github.com/SyedMustafaAhmad/testing-boost-exercise/actions/workflows/sidemade.yml)
+[![Automation CI](https://github.com/SyedMustafaAhmad/testing-boost-exercise/actions/workflows/ci.yml/badge.svg)](https://github.com/SyedMustafaAhmad/testing-boost-exercise/actions/workflows/ci.yml)
 
 # SIDEMADE - Simple Dense Matrix Decomposition
 

@@ -1,3 +1,5 @@
+[![Automation CI](https://github.com/SyedMustafaAhmad/testing-boost-exercise/actions/workflows/sidemade.yml/badge.svg)](https://github.com/SyedMustafaAhmad/testing-boost-exercise/actions/workflows/sidemade.yml)
+
 # SIDEMADE - Simple Dense Matrix Decomposition
 
 A simple demo code to read dense matrices from files and solve linear systems with them.
